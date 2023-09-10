@@ -1,4 +1,4 @@
-# APMDb - Aplicativo de Gerenciamento de Filmes
+# Aplicativo de Gerenciamento de Filmes
 
 O APMDb (Aplicativo de Gerenciamento de Filmes) é uma aplicação desenvolvida em TypeScript, HTML, CSS, Bootstrap e Webpack que permite aos usuários pesquisar e visualizar informações sobre filmes por meio da API do TMDB. Ele oferece recursos como listar filmes em cartaz, os mais votados e os populares. Além disso, os usuários podem ver detalhes específicos de cada filme, como atores, diretores, escritores, quantidade de votos e data de lançamento.
 
